@@ -1,0 +1,6 @@
+[submodule "project_management"]
+	path = project_management
+	url = https://github.com/harshsinghdev-11/project_management.git
+[submodule "project-management-frontend"]
+	path = project-management-frontend
+	url = https://github.com/harshsinghdev-11/project-management-frontend
