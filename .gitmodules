@@ -4,6 +4,6 @@
 [submodule "project-management-frontend"]
 	path = project-management-frontend
 	url = https://github.com/harshsinghdev-11/project-management-frontend
-[submodule "user_agent"]
+[submodule "project_camp_user_agent"]
 	path = user_agent
 	url = https://github.com/harshsinghdev-11/project_camp_user_agent
